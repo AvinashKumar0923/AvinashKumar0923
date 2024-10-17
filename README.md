@@ -1,7 +1,7 @@
 <h1 align="center"> Hi!!<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40"width="40" />I'm <a href="https://www.linkedin.com/in/avinash-kumar-6058b9231" target="_blank">Avinash Kumar</h1> 
     
 <div id="header" align="center">
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Nyc25ycG12cGJzb3BrcjFseTQyanNzbW1mdnJhZzJmNGpvaGs3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"  width="400"/> 
+<img src="https://media.giphy.com/media/T7Qx28nEdo9NK/giphy.gif?cid=ecf05e47kkta06ywc036ln557cy973w88mihzxur6itsquoi&ep=v1_gifs_search&rid=giphy.gif&ct=g"  width="400"/> 
 </div>
 
 <div align="center">
